@@ -13,7 +13,7 @@ function crearaprendiz(nombre,planeta,edad,estatura,clarsificar){
 
 
 }
-//lamando la funcion
+//llamando la funcion
 crearaprendiz("edison","tierra",27,1.68, function(aprendiz){
     if(
         aprendiz.edad>=15){
